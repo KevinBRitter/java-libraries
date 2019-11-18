@@ -1,0 +1,7 @@
+
+*.xml
+.idea/.name
+*.iml
+*.class
+*.kotlin_module
+.idea/$PRODUCT_WORKSPACE_FILE$
